@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ![Derya's github stats](https://github-readme-stats.vercel.app/api?username=sagglamderya&show_icons=true&theme=highcontrast)
 
 <br />
+<br />
