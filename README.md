@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ⚡ Trying to be a Geology Engineer, Bridge Player
+- ⚡ Trying to be a Geology Engineer and Bridge Player
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: sagglamderya@gmail.com
+- 📫 Reach me on sagglamderya@gmail.com
 
 ## Reach Me On 
 
