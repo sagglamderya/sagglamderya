@@ -7,7 +7,21 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: sagglamderya@gmail.com
-## Reach Me On [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mert-aras/)
+- ⚡ Fun fact: Bridge Player 
+## Reach Me On 
 
- 
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/deryasaglam/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/sagglamderya/?hl=en)
+<a href="https://www.hackerrank.com/sagglamderya" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagglamderya" height="32" width="32" /></a>
 
+<br />
+
+## <summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagglamderya&count_private=true&layout=compact&theme=dark" >
+
+<br />
+
+## <summary>:bulb: Github Stats</summary>
+![Derya's github stats](https://github-readme-stats.vercel.app/api?username=sagglamderya&show_icons=true&theme=highcontrast)
+
+<br />
