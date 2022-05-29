@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagglamderya&count_private=true&layout=compact&theme=dark" >
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagglamderya&exclude_repo=github-readme-stats,sagglamderya.github.io)](https://github.com/sagglamderya/github-readme-stats)
+
 <br />
 
 ## <summary>:bulb: Github Stats</summary>
