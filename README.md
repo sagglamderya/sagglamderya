@@ -2,7 +2,7 @@
 
 - ⚡ Trying to be a Geology Engineer and Bridge Player
 - 🌱 I’m currently learning Python
-- 📫 Reach me on sagglamderya@gmail.com
+- 📫 Mail me on sagglamderya@gmail.com
 
 ## Reach Me On 
 
