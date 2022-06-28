@@ -7,7 +7,6 @@
 ## Reach Me On 
 
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/deryasaglam/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/sagglamderya/?hl=en)
 <a href="https://www.hackerrank.com/sagglamderya" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagglamderya" height="32" width="32" /></a>
 
 <br />
